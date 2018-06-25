@@ -10,7 +10,10 @@ package e07022017;
  * @author EDYA
  */
 public class Carro {
-	
+	public void codigonovo() {
+		
+		
+	}
 	double ano;
     int ano;
     String  fabricante;
